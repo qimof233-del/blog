@@ -1,0 +1,15 @@
+title: 一个计算机学生的笔记
+description: 把学到的东西写出来 —— 写不出来的地方，就是没懂的地方
+author: qimof233
+theme: minima
+lang: zh-CN
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+
+show_excerpts: true
